@@ -1,0 +1,19 @@
+The data is a collection of texts in different dialects of the Arabic language.
+    The texts are collected from different sources, and the dialects are classified
+    into 5 categories: Gulf, Levantine, North African, Iraqi, and Egyptian. The data
+    is collected from the following sources:
+    1. https://www.kaggle.com/mksaad/arabic-dialects-texts
+    2. https://www.kaggle.com/rtatman/blog-authorship-corpus
+    3. https://www.kaggle.com/rtatman/the-billboard-200-streaming-songs-audio-features
+    
+    The data is collected by the following people:
+    1. https://www.kaggle.com/mksaad
+    2. https://www.kaggle.com/rtatman
+    3. https://www.kaggle.com/dhruvildave
+    
+    
+    The data is collected for the following purposes:
+    1. https://www.kaggle.com/mksaad/arabic-dialects-texts
+        - To build a model that can classify Arabic dialects.
+    2. https://www.kaggle.com/rtatman/blog-authorship-corpus
+        - To build a model that can classify the author of a blog post.

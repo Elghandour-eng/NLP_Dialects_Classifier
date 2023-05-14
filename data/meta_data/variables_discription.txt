@@ -1,0 +1,3 @@
+id : the id of the text and the dialect
+text: the text in the dialect
+dialect: the dialect of the text
