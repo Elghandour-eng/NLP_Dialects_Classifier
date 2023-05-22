@@ -1,0 +1,31 @@
+body
+{
+    background-color: rgb(0, 0, 0);
+}
+h1 
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h3
+{
+    width: 50%;
+    margin: auto;
+    border-bottom: 0.4px solid #e0e0e0;
+
+}
+form 
+{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 2px solid rgb(100, 99, 99);
+    margin-bottom: 20px;
+}
+.data 
+{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 2px solid rgb(100, 99, 99);
+}
