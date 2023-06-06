@@ -3,7 +3,7 @@
 This repository contains the code and resources for a project focused on classifying Arabic tweets dialect.<br>
 The aim of the project is to develop a machine learning model that can accurately classify tweets written in different Arabic dialects.<br>
 
-[ Explore Our Presentation](https://www.canva.com/design/DAFjlslyD7M/tonwqBzB7bWhKE156FH9Rg/view?utm_content=DAFjlslyD7M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
+[ Explore Our Presentation](https://drive.google.com/file/d/1l1jr0F9M1qvyFIC3jdt3RmS4Crdyctql/view?usp=sharing)
 
 ![](https://i.ibb.co/7QJ54RG/Screenshot-43.png)
 ---
